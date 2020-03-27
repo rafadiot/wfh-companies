@@ -8,7 +8,10 @@ _See each individual company profile for details._
 
 ## Companies
 
-| Name    | Website             | Province    |
-| ------- | ------------------- | ----------- |
-| Bocasay | https://bocasay.com | Ho Chi Minh |
-| Tiki    | https://tiki.vn     | Ho Chi Minh |
+| Name                       | Website                    | Province    |
+| -------------------------- | -------------------------- | ----------- |
+| AS White Vietnam           | https://aswhiteglobal.com  | Ho Chi Minh |
+| Bocasay                    | https://bocasay.com        | Ho Chi Minh |
+| DXC Technology             | https://www.dxc.technology | Ho Chi Minh |
+| Pizza Hut Digital Ventures | https://www.pizzahut.co.uk | Ho Chi Minh |
+| Tiki                       | https://tiki.vn            | Ho Chi Minh |
