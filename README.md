@@ -15,3 +15,4 @@ _See each individual company profile for details._
 | DXC Technology             | https://www.dxc.technology | Ho Chi Minh |
 | Pizza Hut Digital Ventures | https://www.pizzahut.co.uk | Ho Chi Minh |
 | Tiki                       | https://tiki.vn            | Ho Chi Minh |
+| Viec.Co                    | https://viec.co            | Ho Chi Minh |
