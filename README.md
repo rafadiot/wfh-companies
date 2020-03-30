@@ -12,6 +12,7 @@ _See each individual company profile for details._
 | -------------------------- | -------------------------- | ----------- |
 | AS White Vietnam           | https://aswhiteglobal.com  | Ho Chi Minh |
 | Bocasay                    | https://bocasay.com        | Ho Chi Minh |
+| FoodConnection VN          | https://foodconnection.vn  | Ho Chi Minh |
 | DXC Technology             | https://www.dxc.technology | Ho Chi Minh |
 | Pizza Hut Digital Ventures | https://www.pizzahut.co.uk | Ho Chi Minh |
 | Tiki                       | https://tiki.vn            | Ho Chi Minh |
